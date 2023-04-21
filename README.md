@@ -1,3 +1,3 @@
-# React-TS-RTL-MUI
+# React-TS-MUI
 
 CRA with TS and MUI
